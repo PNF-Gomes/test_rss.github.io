@@ -1,0 +1,46 @@
+<rss xmlns:plrelease="http://xml.theplatform.com/media/data/Release" xmlns:plfile="http://xml.theplatform.com/media/data/MediaFile" xmlns:plmedia="http://xml.theplatform.com/media/data/Media" xmlns:pla="http://xml.theplatform.com/data/object/admin" xmlns:pl="http://xml.theplatform.com/data/object" xmlns:pllist="http://xml.theplatform.com/data/list" xmlns:bbg="http://xml.bloomberg.com/fields" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:os="http://a9.com/-/spec/opensearch/1.1/" version="2.0">
+<channel>
+<title>SocialFlow - Twitter - Firehose</title>
+<link>http://vfeed.synd.bloomberg.com/f/nJEtBC/twitterfirehose</link>
+<description>SocialFlow - Twitter - Firehose</description>
+<item>
+<guid isPermaLink="false">d4497c79-d3a0-48e0-835b-f8607e3f1222</guid>
+<title>MLIV QOD: Did the Inflation Print Change Anything?</title>
+<description>Evercore's Julian Emanuel and Marathon Asset Management's Bruce Richards respond to today's question of the day: Did the Inflation Print Change Anything? Follow Bloomberg for business news & analysis, up-to-the-minute market data, features, profiles and more: http://www.bloomberg.com Connect with us on... Twitter: https://twitter.com/business Facebook: https://www.facebook.com/bloombergbusiness/ Instagram: https://www.instagram.com/quicktake/?hl=en</description>
+<media:category scheme="http://www.bloomberg.com" label="BUSINESS">Business News</media:category>
+<media:category scheme="http://www.bloomberg.com" label="STK">Stock Market News</media:category>
+<media:category scheme="http://www.bloomberg.com" label="FIN">Financial Services</media:category>
+<media:category scheme="http://www.bloomberg.com" label="ECO">Economic News</media:category>
+<media:category scheme="http://www.bloomberg.com" label="GOV">Government News</media:category>
+<media:category scheme="http://www.bloomberg.com" label="VIDMAR">Markets</media:category>
+<media:category scheme="http://www.bloomberg.com" label="VIDMRC">Video Source MRC Identifier</media:category>
+<media:category scheme="http://www.bloomberg.com" label="VIDTWT">BTV Twitter Videos</media:category>
+<media:keywords>Evercore Partners Inc.,Marathon Asset Management LP,EVR,4064694Z@US,Bruce Richards,Julian Emanuel,Business News,Stock Market News,BTV Youtube Video,Financial Services,Economic News,Government News,Markets,Video Source MRC Identifier,BTV Twitter Videos,Bruce Richards, Julian Emanuel, Evercore Partners Inc., Marathon Asset Management LP</media:keywords>
+<media:subTitle type="application/ttml+xml" lang="en-us" url="https://bbgvod-azure-us-east1-zenko.global.ssl.fastly.net/vod/vod/m/OTI1Mjk0Nw/Q2xvdWRfNzY2OTY3/20230510022941_en_Veritone.dfxp"/>
+<media:content channels="2" samplingrate="48" bitrate="5000" medium="video" duration="63" expression="full" fileSize="40544264" framerate="29.97" type="video/mp4" height="1080" isDefault="false" url="https://bbgvod-azure-us-east1-zenko.global.ssl.fastly.net/vod/vod/m/OTI1Mjk0Nw/Q2xvdWRfNzY2OTY3/sotstring0510_5000.mp4" width="1920"/>
+<media:thumbnail expression="full" fileSize="46134" type="image/jpeg" height="360" isDefault="false" url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNLHP8g0zixs/v58/piFq5T3pJF0qzS8rF9LjsWaQ/640x-1.jpg" width="640"/>
+<pubDate>Wed, 10 May 2023 18:47:03 GMT</pubDate>
+<bbg:companyTicker>EVR</bbg:companyTicker>
+<bbg:companyTicker>4064694Z@US</bbg:companyTicker>
+</item>
+<item>
+<guid isPermaLink="false">9ce5a7a9-5ee5-4fff-ac67-96e62987c73a</guid>
+<title>How To Invest Your Extra Cash Wisely</title>
+<description>Dec.13 -- Whether it's a year-end bonus, an inheritance, or some extra cash lying around, you've just gotten windfall. Now what should you do with it? In this episode of Good Money, we figure out how to put that extra scratch to work. Good Money is a series about making sense of your finances. Join host Shahien Nasiripour as he meets people with an obsession to beat the system and never leave money on the table. (Video by Brian Schildhorn and Henry Baker. Graphics by Christian Capestany)</description>
+<media:category scheme="http://www.bloomberg.com" label="VIDMLDFEA">Synd Feature Feed; B.com</media:category>
+<media:category scheme="http://www.bloomberg.com" label="VIDUSDIGI">Bloomberg Vid; U.S. Digi Team</media:category>
+<media:category scheme="http://www.bloomberg.com" label="">Audio/Video</media:category>
+<media:category scheme="http://www.bloomberg.com" label="VIDEDITORS">MRCSyndication/Editors Picks</media:category>
+<media:category scheme="http://www.bloomberg.com" label="VIDTWT">BTV Twitter Videos</media:category>
+<media:category scheme="http://www.bloomberg.com" label="VIDDIGPERS">Personal Finance Video Series</media:category>
+<media:category scheme="http://www.bloomberg.com" label="VIDDIGORIG">Digital Original Video</media:category>
+<media:category scheme="http://www.bloomberg.com" label="QT">QuickTake Video Content</media:category>
+<media:category scheme="http://www.bloomberg.com" label="VIDGDMONY">Good Money</media:category>
+<media:keywords>,,Nasiripour Shahien,Synd Feature Feed; B.com,Bloomberg Vid; U.S. Digi Team,Bloomberg.com Web Submit,Audio/Video,Editors' Picks,MRCSyndication/Editors Picks,BTV Twitter Videos,Personal Finance Video Series,Digital Original Video,QuickTake Video Content,Good Money,Bonus, Investing, stocks, Bonds, fixed income, ETF, Personal Finance, Certified Financial Planner, Fiduciary duty, 401K</media:keywords>
+<media:subTitle type="application/ttml+xml" lang="en-us" url="https://bloomberg-vod-prod-us-east1.akamaized.net/m/NzcxMDQ0OQ/MjU2NjQ3MA/captionsgoodmoney2.dfxp"/>
+<media:content bitrate="1800" medium="video" duration="281" expression="full" fileSize="68227911" type="video/mp4" height="720" isDefault="false" url="https://bloomberg-vod-prod-us-east1.s3.amazonaws.com/m/NzcxMDQ0OQ/MjU1OTE3Nw/invest_bonus_digital_1800.mp4" width="1280"/>
+<media:thumbnail expression="full" type="image/jpeg" height="360" isDefault="false" url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iz07mQ7Ko76k/v5/640x-1.jpg" width="640"/>
+<pubDate>Thu, 13 Dec 2018 18:34:05 GMT</pubDate>
+</item>
+</channel>
+</rss>
